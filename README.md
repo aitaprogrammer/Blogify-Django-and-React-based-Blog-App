@@ -2,6 +2,10 @@
 
 > A production-ready, full-stack blogging platform designed to connect content creators and readers through a decoupled client-server architecture.
 
+
+https://github.com/user-attachments/assets/0274fad4-78bd-4ed2-ad81-540da68c86db
+
+
 ## 📖 Overview
 
 Blogify is a robust social blogging application that pairs a **Django 5 REST API** backend with a **React 19** Single-Page Application (SPA) frontend. The platform is engineered to solve common engagement and usability challenges using "smart" architectural features, such as a personalized feed algorithm and optimistic UI updates.
